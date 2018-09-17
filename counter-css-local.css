@@ -1,0 +1,41 @@
+.container {
+  margin-top: 30px;
+  width: 50%;
+  padding: 15px;
+}
+.counter .title {
+    color: #0c1014;
+    font-size: 20px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.counter .square {
+    color: #0c1014;
+    display: inline-block;
+    text-align: center;
+}
+.counter .square .bord {
+    border: 1px solid #0080ff;
+    padding: 15px 15px;
+    margin-right: 18px;
+    text-indent: 0px;
+    font-family: 'Montserrat';
+    font-size: 22px;
+    margin-bottom: 5px;
+    width: 60px;
+}
+.counter .square span {
+    clear: both;
+    display: block;
+    text-indent: -15px;
+    font-size: 22px;
+    font-size: 1.6rem;
+    font-family: "Montserrat";
+}
+.wall {
+  text-align: center;
+  max-width: 400px;
+}
